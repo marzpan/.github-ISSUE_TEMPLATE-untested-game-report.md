@@ -1,0 +1,1 @@
+# .github-ISSUE_TEMPLATE-untested-game-report.md
